@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c906dbb49330ea4004088ceb7bc3d75",
+    "revision": "67c8652180d171768553936cc6b9252b",
     "url": "/elastic-diag-reporting/index.html"
   },
   {
-    "revision": "c02aca4dca0bbb73a8d4",
+    "revision": "6318f1bdae25196099ba",
     "url": "/elastic-diag-reporting/static/css/2.f476a95a.chunk.css"
   },
   {
-    "revision": "ec855298379a583a2321",
-    "url": "/elastic-diag-reporting/static/css/main.99ce9103.chunk.css"
+    "revision": "78341b25fe831269e0c4",
+    "url": "/elastic-diag-reporting/static/css/main.bcc16546.chunk.css"
   },
   {
-    "revision": "c02aca4dca0bbb73a8d4",
-    "url": "/elastic-diag-reporting/static/js/2.a9f6c1f2.chunk.js"
+    "revision": "6318f1bdae25196099ba",
+    "url": "/elastic-diag-reporting/static/js/2.48f2f898.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/elastic-diag-reporting/static/js/2.a9f6c1f2.chunk.js.LICENSE.txt"
+    "url": "/elastic-diag-reporting/static/js/2.48f2f898.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec855298379a583a2321",
-    "url": "/elastic-diag-reporting/static/js/main.e4015bea.chunk.js"
+    "revision": "78341b25fe831269e0c4",
+    "url": "/elastic-diag-reporting/static/js/main.8b14651c.chunk.js"
   },
   {
     "revision": "e3830c2f0b523bd58d26",
