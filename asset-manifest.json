@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/elastic-diag-reporting/static/css/main.bcc16546.chunk.css",
-    "main.js": "/elastic-diag-reporting/static/js/main.8b14651c.chunk.js",
-    "main.js.map": "/elastic-diag-reporting/static/js/main.8b14651c.chunk.js.map",
+    "main.css": "/elastic-diag-reporting/static/css/main.3ca3df2d.chunk.css",
+    "main.js": "/elastic-diag-reporting/static/js/main.db57fad2.chunk.js",
+    "main.js.map": "/elastic-diag-reporting/static/js/main.db57fad2.chunk.js.map",
     "runtime-main.js": "/elastic-diag-reporting/static/js/runtime-main.3216276e.js",
     "runtime-main.js.map": "/elastic-diag-reporting/static/js/runtime-main.3216276e.js.map",
     "static/css/2.f476a95a.chunk.css": "/elastic-diag-reporting/static/css/2.f476a95a.chunk.css",
-    "static/js/2.48f2f898.chunk.js": "/elastic-diag-reporting/static/js/2.48f2f898.chunk.js",
-    "static/js/2.48f2f898.chunk.js.map": "/elastic-diag-reporting/static/js/2.48f2f898.chunk.js.map",
+    "static/js/2.6f01f6c3.chunk.js": "/elastic-diag-reporting/static/js/2.6f01f6c3.chunk.js",
+    "static/js/2.6f01f6c3.chunk.js.map": "/elastic-diag-reporting/static/js/2.6f01f6c3.chunk.js.map",
     "index.html": "/elastic-diag-reporting/index.html",
-    "precache-manifest.8d2884e470c7c767b22411efdd19ab53.js": "/elastic-diag-reporting/precache-manifest.8d2884e470c7c767b22411efdd19ab53.js",
+    "precache-manifest.76d9f3b7db13a0562d9ed61d22d44207.js": "/elastic-diag-reporting/precache-manifest.76d9f3b7db13a0562d9ed61d22d44207.js",
     "service-worker.js": "/elastic-diag-reporting/service-worker.js",
     "static/css/2.f476a95a.chunk.css.map": "/elastic-diag-reporting/static/css/2.f476a95a.chunk.css.map",
-    "static/css/main.bcc16546.chunk.css.map": "/elastic-diag-reporting/static/css/main.bcc16546.chunk.css.map",
-    "static/js/2.48f2f898.chunk.js.LICENSE.txt": "/elastic-diag-reporting/static/js/2.48f2f898.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/elastic-diag-reporting/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/logo.svg": "/elastic-diag-reporting/static/media/logo.5d5d9eef.svg"
+    "static/css/main.3ca3df2d.chunk.css.map": "/elastic-diag-reporting/static/css/main.3ca3df2d.chunk.css.map",
+    "static/js/2.6f01f6c3.chunk.js.LICENSE.txt": "/elastic-diag-reporting/static/js/2.6f01f6c3.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/elastic-diag-reporting/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3216276e.js",
     "static/css/2.f476a95a.chunk.css",
-    "static/js/2.48f2f898.chunk.js",
-    "static/css/main.bcc16546.chunk.css",
-    "static/js/main.8b14651c.chunk.js"
+    "static/js/2.6f01f6c3.chunk.js",
+    "static/css/main.3ca3df2d.chunk.css",
+    "static/js/main.db57fad2.chunk.js"
   ]
 }
